@@ -8,7 +8,7 @@ This repo is the website for [Hack Club](https://hackclub.com/)’s [Summer Scra
 
 ## How do I join?
 
-[Join the Hack Club Slack to participate.](https://hack.af/som-slack/)
+[Join the Hack Club Slack to participate.](https://hack.af/som-slack/) If you're already there join the #scrapbook channel.
 
 ## How does it work?
 
