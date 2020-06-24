@@ -104,7 +104,7 @@ const Profile = ({ profile = {}, heatmap = [], posts = [], children }) => (
           endDate={new Date('2020-08-16')}
           values={heatmap}
           showWeekdayLabels
-          classForValue={v => (v?.count ? `color-${v.count}` : 'color-empty')}
+          classForValue={v => (v?.count ? `color-${v.count}`)}
           titleForValue={v =>
             v?.date ? `${v?.date} updates: ${v?.count}` : ''
           }
